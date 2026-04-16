@@ -1,4 +1,4 @@
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/5b915742-9a9f-4e96-9bbf-f92f15785455" /># Projeto PRF - Análise de Acidentes
+# Projeto PRF - Análise de Acidentes
 
 ## Problema
 Acidentes em rodovias federais impactam segurança e economia.
