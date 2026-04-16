@@ -1,0 +1,21 @@
+uf,municipio,data,causa_acidente,fase_dia,condicao_meteorologica,mortos,feridos
+GO,Goiania,2024-01-05,Falta de atenção,Dia,Ceu claro,0,2
+GO,Aparecida de Goiania,2024-01-10,Excesso de velocidade,Noite,Chuva,1,3
+GO,Anapolis,2024-01-15,Ultrapassagem indevida,Dia,Nublado,1,1
+SP,Sao Paulo,2024-02-01,Falta de atenção,Dia,Ceu claro,0,2
+SP,Campinas,2024-02-10,Excesso de velocidade,Noite,Chuva,2,3
+SP,Santos,2024-02-20,Alcool ao volante,Noite,Nublado,3,4
+RJ,Rio de Janeiro,2024-03-05,Falta de atenção,Dia,Ceu claro,0,1
+RJ,Niteroi,2024-03-12,Ultrapassagem indevida,Noite,Chuva,2,2
+MG,Belo Horizonte,2024-03-18,Excesso de velocidade,Dia,Ceu claro,1,2
+MG,Uberlandia,2024-04-01,Falta de atenção,Noite,Nublado,0,2
+BA,Salvador,2024-04-10,Alcool ao volante,Noite,Chuva,3,5
+BA,Feira de Santana,2024-04-20,Excesso de velocidade,Dia,Ceu claro,1,2
+PR,Curitiba,2024-05-05,Falta de atenção,Dia,Ceu claro,0,1
+PR,Londrina,2024-05-15,Ultrapassagem indevida,Noite,Nublado,2,3
+RS,Porto Alegre,2024-05-25,Excesso de velocidade,Noite,Chuva,2,4
+RS,Caxias do Sul,2024-06-01,Falta de atenção,Dia,Ceu claro,0,2
+GO,Goiania,2024-06-10,Excesso de velocidade,Noite,Chuva,1,2
+SP,Sao Paulo,2024-06-20,Alcool ao volante,Noite,Nublado,4,6
+RJ,Rio de Janeiro,2024-07-05,Ultrapassagem indevida,Dia,Ceu claro,1,2
+MG,Belo Horizonte,2024-07-15,Falta de atenção,Noite,Chuva,0,3
